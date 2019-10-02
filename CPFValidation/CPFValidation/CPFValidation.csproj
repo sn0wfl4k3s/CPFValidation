@@ -3,11 +3,12 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp2.1</TargetFramework>
 
-    <PackageId>AppLogger</PackageId>
-    <Version>1.0.1</Version>
+    <PackageId>CPFValidation</PackageId>
+    <Version>1.0.2</Version>
     <Authors>Snowflakes</Authors>
     <Company>snowflakes.edu</Company>
     <PackageIconUrl>images/snowflakes.png</PackageIconUrl>
+    <RepositoryUrl>https://github.com/EddyJunior/CPFValidation</RepositoryUrl>
     
   </PropertyGroup>
 
