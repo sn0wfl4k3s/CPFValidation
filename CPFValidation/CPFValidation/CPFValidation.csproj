@@ -2,6 +2,17 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.1</TargetFramework>
+
+    <PackageId>AppLogger</PackageId>
+    <Version>1.0.1</Version>
+    <Authors>Snowflakes</Authors>
+    <Company>snowflakes.edu</Company>
+    <PackageIconUrl>images/snowflakes.png</PackageIconUrl>
+    
   </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="images\" />
+  </ItemGroup>
 
 </Project>
